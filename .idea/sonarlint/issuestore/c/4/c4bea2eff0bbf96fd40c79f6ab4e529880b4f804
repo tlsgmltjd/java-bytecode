@@ -1,13 +1,2 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(É¥ë”şÿÿÿÿ8ëçÇÒé2
-]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8íçÇÒé2
-Q
-java:S1128"4Remove this unused import 'net.bytebuddy.ByteBuddy'.(öÅâ8íçÇÒé2
-a
-java:S1128"DRemove this unused import 'net.bytebuddy.implementation.FixedValue'.(Í¹¬ê8îçÇÒé2
-F
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8îçÇÒé2
-R
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ïçÇÒé2
-d
-java:S1128	"HRemove this unused import 'net.bytebuddy.matcher.ElementMatchers.named'.(å¨Ë%8ïçÇÒé2
+r	java:S106	"+Replace this use of System.out by a logger.(É¥ë”şÿÿÿÿ8ÚÕ°•ë2J$361baaba-c510-4293-842b-d5d0e9b778c5
