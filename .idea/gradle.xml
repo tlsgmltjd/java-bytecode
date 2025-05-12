@@ -11,6 +11,23 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/demospringdi" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/demospringdi" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/reflection" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/reflection" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
