@@ -1,5 +1,6 @@
 package gogo;
 
+@MyAnnotation(number = 100)
 public class Book {
     private String a = "a";
 
@@ -7,6 +8,7 @@ public class Book {
 
     private static final String C = "BOOK";
 
+    @MyAnnotation(number = 999)
     public String d = "d";
 
     protected String e = "e";

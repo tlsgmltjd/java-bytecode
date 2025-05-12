@@ -45,3 +45,5 @@ Y
 )reflection/src/main/java/gogo/MyBook.java,1/d/1d25b9d680ef48b5395d27fc00e51539cca9eb7b
 ^
 .reflection/src/main/java/gogo/MyInterface.java,b/7/b7cc0b1a9a8335be17b84e115ebdc2401488fb57
+_
+/reflection/src/main/java/gogo/MyAnnotation.java,b/9/b96fc00aa841bf10d6e063921330ead06bb8792c

@@ -1,21 +1,10 @@
 
-w
-java:S3740,"/Provide the parametrized type for this generic.(ÃÅ÷Üúÿÿÿÿ8âÝ¢—ì2J$c33f875a-df3f-46b6-9134-39f7365f7534
-m	java:S106"+Replace this use of System.out by a logger.(÷ƒëâ8éÝ¢—ì2J$b0343bb4-950a-4531-83fa-b1ee95c5f838
-m	java:S106"+Replace this use of System.out by a logger.(÷ƒëâ8éÝ¢—ì2J$238f710c-9c23-4a34-9f1b-b06bf677ce7c
+Á
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Æï‡Œüÿÿÿÿ8µš£˜ì2J$f7d011c3-b158-4e6f-a0bb-4ad65a660d8d
+Á
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(Æï‡Œüÿÿÿÿ8¶š£˜ì2J$f85365ce-6ec7-4d50-9183-821c027e1dfc
 n
-java:S1481"+Remove this unused "aClass" local variable.(—‚©ë8ëÝ¢—ì2J$23bda390-1f29-40c0-83c4-b1fea1006e4c
-o
-java:S3011 ",This accessibility update should be removed.(Ê›îï8ìÝ¢—ì2J$b5645779-c37c-48b9-98e0-08a0dbc4892f
-m	java:S106""+Replace this use of System.out by a logger.(·ªõ¯8ìÝ¢—ì2J$30f4a98f-254c-45f6-9a92-8cad6f04e506
-t
-java:S3011'",This accessibility update should be removed.(íË©¶úÿÿÿÿ8ìÝ¢—ì2J$52e4c864-ac4e-4a56-bc83-706a3985e495
-m	java:S106("+Replace this use of System.out by a logger.(çŠ¥´8ìÝ¢—ì2J$55a5d24d-ace0-4c8b-92e9-cd0debece70d
-t
-java:S3011-",This accessibility update should be removed.(¸Ò†’üÿÿÿÿ8ìÝ¢—ì2J$82bd3fd1-d13b-4096-bdad-9681a1000307
-r	java:S106."+Replace this use of System.out by a logger.(‹ ÁÈøÿÿÿÿ8ìÝ¢—ì2J$81091c3c-c7aa-45e4-90b8-4e4da4c60bd1
-m	java:S1062"+Replace this use of System.out by a logger.(³µŒô8ìÝ¢—ì2J$0535ac68-2866-4e20-a961-b86fdb2bb7ec
-r	java:S1067"+Replace this use of System.out by a logger.(ÌÜÙ¬øÿÿÿÿ8ìÝ¢—ì2J$df0d3831-898e-42af-92ab-ba986d3ec4f4
-m	java:S106<"+Replace this use of System.out by a logger.( Ý³8îÝ¢—ì2J$00177575-ef1d-4dd7-9ada-6ab28dbb09a1
-t
-java:S1481?",Remove this unused "aClass1" local variable.(Ëý÷Õüÿÿÿÿ8îÝ¢—ì2J$bcf6f0d3-e874-4086-a2c0-bf508af9fc6f
+java:S1602	",Remove useless curly braces around statement(ÉŸÛy8·š£˜ì2J$3dbc118b-a259-484e-81a3-f28e4f809854
+‹
+java:S6201"HReplace this instanceof check and cast with 'instanceof MyAnnotation a1'(šàÈ 8¼š£˜ì2J$26bfb58f-c5f8-4f45-8ed2-c80f33f4c1cd
+r	java:S106"+Replace this use of System.out by a logger.(Æ£²‡üÿÿÿÿ8¼š£˜ì2J$858bbf4d-8579-4add-be3a-f8aff2a811fe

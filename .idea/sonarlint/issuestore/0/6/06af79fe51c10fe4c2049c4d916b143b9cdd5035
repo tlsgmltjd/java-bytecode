@@ -1,16 +1,13 @@
 
-
-java:S1104
-"MMake d a static final constant or non-public and provide accessors if needed.(”±¸®8È¬†—ë2J$3e829a9a-8846-4505-825a-1a9c5e398636
 
-java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–€ßò8È¬†—ë2J$f5edcbeb-b72c-47c2-8f9b-2bf5fd99e21f
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–€ßò8È¬†—ë2J$f68350ae-7978-4472-a193-b60ffce9335c
 i
-java:S1144"&Remove this unused private "f" method.(ä¸œ¡8­éˆ—ë2J$dafcaf92-c379-4879-933f-c19816faf6a7
-m	java:S106"+Replace this use of System.out by a logger.(ÄèÇ¥8®éˆ—ë2J$c6046376-ff57-4e63-a404-88a8077197c0
-m	java:S106"+Replace this use of System.out by a logger.(Š—œ‘8®éˆ—ë2J$7640061b-7aa9-43ab-be7d-c6284d8cb886
+java:S1144"&Remove this unused private "f" method.(ä¸œ¡8­éˆ—ë2J$1144c56b-d071-426d-9655-f3ec957557f7
+m	java:S106"+Replace this use of System.out by a logger.(ÄèÇ¥8®éˆ—ë2J$6e795392-bd0e-4a57-85d2-686d4e66f819
+m	java:S106"+Replace this use of System.out by a logger.(Š—œ‘8®éˆ—ë2J$f15201f3-8b99-4153-b077-e7b1e7bd6fa2
 m
-java:S1068"%Remove this unused "a" private field.(¢¿ÌÅÿÿÿÿÿ8Ñ¬†—ë2J$5a43ba80-dfd5-4357-832d-4976e884b19b
+java:S1068"%Remove this unused "a" private field.(¢¿ÌÅÿÿÿÿÿ8Ñ¬†—ë2J$229cf6e1-5849-4c01-b931-44ee9ca66bbe
 h
-java:S1068"%Remove this unused "B" private field.(–€ßò8Ò¬†—ë2J$599dfece-5bf9-49d7-9a15-2157ede55ca1
+java:S1068"%Remove this unused "B" private field.(–€ßò8Ò¬†—ë2J$ce6ebbb4-f79b-425b-8e9f-cb8bef70da12
 m
-java:S1068"%Remove this unused "C" private field.(©Â¾’ıÿÿÿÿ8Ó¬†—ë2J$edccffda-39e9-459a-b0cf-67dde8f202ce
+java:S1068	"%Remove this unused "C" private field.(©Â¾’ıÿÿÿÿ8Ó¬†—ë2J$3bec6ee8-ef53-436c-b1bc-63ba80ef5608
