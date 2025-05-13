@@ -1,13 +1,16 @@
 
+
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(İ˜§ñ8×ğÅºì2J$e5d5a832-1add-4069-b307-f85c89e4792e
+j
+java:S1444"'Make this "public static A" field final(İ˜§ñ8âğÅºì2J$679b26bb-ffd8-4022-90a2-3aca8fd15126
+	java:S116"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎğäË8âğÅºì2J$817fea72-e67e-4334-a88c-163576ea480c
 
-java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–€ßò8È¬†—ë2J$f68350ae-7978-4472-a193-b60ffce9335c
-i
-java:S1144"&Remove this unused private "f" method.(ä¸œ¡8­éˆ—ë2J$1144c56b-d071-426d-9655-f3ec957557f7
-m	java:S106"+Replace this use of System.out by a logger.(ÄèÇ¥8®éˆ—ë2J$6e795392-bd0e-4a57-85d2-686d4e66f819
-m	java:S106"+Replace this use of System.out by a logger.(Š—œ‘8®éˆ—ë2J$f15201f3-8b99-4153-b077-e7b1e7bd6fa2
-m
-java:S1068"%Remove this unused "a" private field.(¢¿ÌÅÿÿÿÿÿ8Ñ¬†—ë2J$229cf6e1-5849-4c01-b931-44ee9ca66bbe
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ˜§ñ8âğÅºì2J$71b83c82-3334-4af0-8048-b2da7869172c
+n
+java:S1144	"&Remove this unused private "c" method.(Ùù±˜ıÿÿÿÿ8ê†èºì2J$e48f67c3-d640-4ba3-a927-787270f1554f
+E
+java:S1144"(Remove this unused private "sum" method.(–ŒŒ³8˜Åìºì2
+m	java:S106
+"+Replace this use of System.out by a logger.(Ô·ê8ëğÅºì2J$90fc238a-0b8c-4c0b-ad4a-6a47d39c4a25
 h
-java:S1068"%Remove this unused "B" private field.(–€ßò8Ò¬†—ë2J$ce6ebbb4-f79b-425b-8e9f-cb8bef70da12
-m
-java:S1068	"%Remove this unused "C" private field.(©Â¾’ıÿÿÿÿ8Ó¬†—ë2J$3bec6ee8-ef53-436c-b1bc-63ba80ef5608
+java:S1068"%Remove this unused "B" private field.(ÎğäË8Ñ‡áºì2J$73949ef3-6899-4a1c-b15e-2caa2ce2fb4e

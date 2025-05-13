@@ -1,37 +1,23 @@
 package gogo;
 
-@MyAnnotation(number = 100)
 public class Book {
-    private String a = "a";
 
-    private static String B = "BOOK";
+    public static String A = "A";
 
-    private static final String C = "BOOK";
+    private String B = "B";
 
-    @MyAnnotation(number = 999)
-    public String d = "d";
+    private void c() {
+        System.out.println("C");
+    }
 
-    protected String e = "e";
+    private int sum(int left, int right) {
+        return left + right;
+    }
 
     public Book() {
     }
 
-    public Book(String a, String d, String e) {
-        this.a = a;
-        this.d = d;
-        this.e = e;
+    public Book(String b) {
+        B = b;
     }
-
-    private void f() {
-        System.out.println("F");
-    }
-
-    public void g() {
-        System.out.println("g");
-    }
-
-    public Integer h() {
-        return 100;
-    }
-
 }

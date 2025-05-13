@@ -1,19 +1,36 @@
 package gogo;
 
-import java.util.Arrays;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 
 public class Main {
-    public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException {
+    public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, NoSuchMethodException, InvocationTargetException, InstantiationException, NoSuchFieldException {
 
-        Class<Book> bookClass = Book.class;
-        Arrays.stream(bookClass.getDeclaredFields()).forEach(f -> {
-            Arrays.stream(f.getAnnotations()).forEach(a -> {
-                if (a instanceof MyAnnotation) {
-                    MyAnnotation a1 = (MyAnnotation) a;
-                    System.out.println("number: " + a1.number()); // 999
-                }
-            });
-        });
+        Class<?> bookClass = Class.forName("gogo.Book");
+        Constructor<?> constructor = bookClass.getConstructor(String.class);
+        Book book = (Book) constructor.newInstance("Test");
+        System.out.println(book);
 
+        Field A = Book.class.getDeclaredField("A");
+        System.out.println(A.get(null)); // static 필드기 때문에 가능.
+        A.set(null, "AAÆ");
+        System.out.println(A.get(null));
+
+        Field B = Book.class.getDeclaredField("B");
+        B.setAccessible(true);
+        System.out.println(B.get(book));
+        B.set(book, "BBBBB");
+        System.out.println(B.get(book));
+
+        Method c = Book.class.getDeclaredMethod("c");
+        c.setAccessible(true);
+        c.invoke(book);
+
+        Method sum = Book.class.getDeclaredMethod("sum", int.class, int.class);
+        sum.setAccessible(true);
+        int result = (int) sum.invoke(book, 1, 2);
+        System.out.println(result);
     }
 }

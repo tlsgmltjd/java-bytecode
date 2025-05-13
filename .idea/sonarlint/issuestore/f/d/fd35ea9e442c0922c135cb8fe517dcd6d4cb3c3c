@@ -1,10 +1,19 @@
 
-Á
-java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Æï‡Œüÿÿÿÿ8µš£˜ì2J$f7d011c3-b158-4e6f-a0bb-4ad65a660d8d
-Á
-java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(Æï‡Œüÿÿÿÿ8¶š£˜ì2J$f85365ce-6ec7-4d50-9183-821c027e1dfc
-n
-java:S1602	",Remove useless curly braces around statement(ÉŸÛy8·š£˜ì2J$3dbc118b-a259-484e-81a3-f28e4f809854
-‹
-java:S6201"HReplace this instanceof check and cast with 'instanceof MyAnnotation a1'(šàÈ 8¼š£˜ì2J$26bfb58f-c5f8-4f45-8ed2-c80f33f4c1cd
-r	java:S106"+Replace this use of System.out by a logger.(Æ£²‡üÿÿÿÿ8¼š£˜ì2J$858bbf4d-8579-4add-be3a-f8aff2a811fe
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¶äÖ8¤¥ğºì2J$4bad6752-6b29-4a7c-91a7-b098ceeadc8e
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŞ±88¤¥ğºì2J$ac2e2db8-a59f-482d-8f63-33872094e207
+m	java:S106"+Replace this use of System.out by a logger.(äüÃâ8¨¥ğºì2J$0ef8cea4-35e2-438d-b8c1-83994e7b86a0
+r	java:S106"+Replace this use of System.out by a logger.(œò›¢üÿÿÿÿ8¨¥ğºì2J$d5965612-84ee-4519-bf55-a58bdd15ca9c
+o
+java:S3011",This accessibility bypass should be removed.(€Âç8¨¥ğºì2J$3a85fde3-ec91-49e4-b010-99967e8a30a4
+m	java:S106"+Replace this use of System.out by a logger.(ìæÔÏ8©¥ğºì2J$2aca6c7c-dabf-413a-8a81-b7cf250b01f5
+o
+java:S3011",This accessibility update should be removed.(¾›¨Ç8©¥ğºì2J$348fc989-c206-4e65-ba77-ff417f0bef95
+r	java:S106"+Replace this use of System.out by a logger.(÷ìá¢øÿÿÿÿ8©¥ğºì2J$297f1f39-7e2b-4762-9745-c3648f0d834d
+t
+java:S3011",This accessibility bypass should be removed.(½‹Ñ‹ıÿÿÿÿ8©¥ğºì2J$95bd5f03-cdbe-4a4a-8940-d93b115ab537
+r	java:S106"+Replace this use of System.out by a logger.(÷ìá¢øÿÿÿÿ8©¥ğºì2J$1a41ebd7-febe-442f-ae2e-e3ce940f5c31
+t
+java:S3011",This accessibility update should be removed.(¸Ò†’üÿÿÿÿ8©¥ğºì2J$bc561369-98e6-4b0c-b5a3-0efc2a8375e1
+o
+java:S3011 ",This accessibility update should be removed.(àìÆ›8ª¥ğºì2J$943077f4-c8f0-4321-9329-aeb6371497a4
+r	java:S106""+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ª¥ğºì2J$650c994b-d8c3-4412-84ee-e165dec6b904
