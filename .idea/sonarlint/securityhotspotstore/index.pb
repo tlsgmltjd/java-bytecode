@@ -47,3 +47,13 @@ Y
 .reflection/src/main/java/gogo/MyInterface.java,b/7/b7cc0b1a9a8335be17b84e115ebdc2401488fb57
 _
 /reflection/src/main/java/gogo/MyAnnotation.java,b/9/b96fc00aa841bf10d6e063921330ead06bb8792c
+\
+,reflection/src/main/java/gogo/di/Inject.java,1/0/1000c58cb6524b54d4187c6efc2db31ae08d7a35
+f
+6reflection/src/main/java/gogo/di/ContainerService.java,1/7/17fb386c2579281f074f073e8e5afe682a8f33e2
+j
+:reflection/src/test/java/gogo/di/ContainerServiceTest.java,5/c/5c11acbcdae43293ebe4c357dae1e30796aa1072
+d
+4reflection/src/main/java/gogo/di/BookRepository.java,b/b/bbdf8ef4fadfc57592c195905d95cb2e3ad6b9e8
+a
+1reflection/src/main/java/gogo/di/BookService.java,d/9/d91e86e94523c11689c4d8bb8183c473ab2eb98c
