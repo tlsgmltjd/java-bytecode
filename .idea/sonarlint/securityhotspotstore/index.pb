@@ -1,14 +1,10 @@
 
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-L
-src/main/java/gogo/Main.java,8/0/804699cc367934306d47c81179e58d7407c05a99
 O
 src/main/java/gogo/Masulsa.java,c/4/c4bea2eff0bbf96fd40c79f6ab4e529880b4f804
 L
 src/main/java/gogo/Moja.java,7/a/7a54b1f2be7b4fceb8504e9fd4a17278e32acdc5
-Z
-*src/main/java/gogo/agent/MasulsaAgent.java,d/7/d7b621d5747491951350a34fdc61d85a252342ee
 T
 $src/main/java/gogo/MasulsaAgent.java,7/3/73004f6af35fa038262160500aa2f0cac04a7046
 y
@@ -22,17 +18,11 @@ Ademospringdi/src/test/java/gogo/demospringdi/BookServiceTest.java,1/a/1a067923
 ~
 Ndemospringdi/src/test/java/gogo/demospringdi/DemospringdiApplicationTests.java,6/5/653276436821981753e6317e5d10da562e3caf6d
 G
-refelction/build.gradle,9/1/9175db58d727d31e13327dd573609fc47bcb8d2d
-W
-'refelction/src/main/java/gogo/Main.java,8/c/8c2edf703b75c42dc34e0559f3be7f80c3574d55
-G
 reflection/build.gradle,f/4/f478a1e1f241b50323f816beda6e20daa9c0d2a1
 W
 'reflection/src/main/java/gogo/Main.java,f/d/fd35ea9e442c0922c135cb8fe517dcd6d4cb3c3c
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
-I
-reflection/settings.grade,f/3/f3d78eac191a0b231870c9f822cc41f1423c3d04
 J
 reflection/settings.gradle,9/3/931d31ceb69140e4c82bf4fe59124168fe1c290d
 F
@@ -57,3 +47,23 @@ d
 4reflection/src/main/java/gogo/di/BookRepository.java,b/b/bbdf8ef4fadfc57592c195905d95cb2e3ad6b9e8
 a
 1reflection/src/main/java/gogo/di/BookService.java,d/9/d91e86e94523c11689c4d8bb8183c473ab2eb98c
+P
+ reflection/untitled/build.gradle,4/7/47eff32941eb0a35a7bba1afc6a1357b7f2ede59
+`
+0reflection/untitled/src/main/java/gogo/Main.java,2/d/2d5e2fcbefe69dbab8ed7e4d649eb1352a8e76fd
+X
+(reflection/dynamic_proxy/settings.gradle,9/3/937ff4a7535ffa49bc939eae52ecd02d9e4f909a
+W
+'demospringdi/dynamic_proxy/build.gradle,2/5/25e74d46858e40f1b1b48d3ed619a9f87d446ed6
+g
+7demospringdi/dynamic_proxy/src/main/java/gogo/Main.java,c/5/c528a242be9864aa5a8fdaef3da26c05f65dd0ef
+B
+proxy/build.gradle,d/4/d487ace80bddd9e5ab657f146fcff6ed576e42f9
+R
+"proxy/src/main/java/gogo/Main.java,e/0/e0b5a2a64a76f028f58c6e9b1810da2de01ddb17
+U
+%proxy/src/main/java/gogo/Service.java,7/0/709d5ae6fbef79f964dfa5db341e5b168e8cdfc1
+Y
+)proxy/src/main/java/gogo/ServiceImpl.java,b/d/bd031276fece97b746663f65f957ce4b26845f8b
+Y
+)proxy/src/test/java/gogo/ServiceTest.java,7/5/75bcce77b6493674e2afe71cc7c5d8466161fff1

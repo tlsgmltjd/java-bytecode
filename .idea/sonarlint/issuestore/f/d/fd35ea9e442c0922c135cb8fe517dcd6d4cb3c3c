@@ -1,19 +1,19 @@
 
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¶äÖ8¤¥ğºì2J$4bad6752-6b29-4a7c-91a7-b098ceeadc8e
-’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŞ±88¤¥ğºì2J$ac2e2db8-a59f-482d-8f63-33872094e207
-m	java:S106"+Replace this use of System.out by a logger.(äüÃâ8¨¥ğºì2J$0ef8cea4-35e2-438d-b8c1-83994e7b86a0
-r	java:S106"+Replace this use of System.out by a logger.(œò›¢üÿÿÿÿ8¨¥ğºì2J$d5965612-84ee-4519-bf55-a58bdd15ca9c
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¶äÖ8¤¥ğºì2J$c6a1a42b-8725-41ef-ab64-11627f455783
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŞ±88¤¥ğºì2J$7ee8c21d-e1ab-4017-8d72-88747b06c652
+m	java:S106"+Replace this use of System.out by a logger.(äüÃâ8¨¥ğºì2J$e91ce239-7ba6-4cf5-b5db-eee32b7970af
+r	java:S106"+Replace this use of System.out by a logger.(œò›¢üÿÿÿÿ8¨¥ğºì2J$912e7bbf-4160-4ec5-9817-f82a742b1f14
 o
-java:S3011",This accessibility bypass should be removed.(€Âç8¨¥ğºì2J$3a85fde3-ec91-49e4-b010-99967e8a30a4
-m	java:S106"+Replace this use of System.out by a logger.(ìæÔÏ8©¥ğºì2J$2aca6c7c-dabf-413a-8a81-b7cf250b01f5
+java:S3011",This accessibility bypass should be removed.(€Âç8¨¥ğºì2J$021704e6-8575-479c-aa05-d9568f7235db
+m	java:S106"+Replace this use of System.out by a logger.(ìæÔÏ8©¥ğºì2J$b21bc4e9-24ba-4e39-b33d-1029d435b19c
 o
-java:S3011",This accessibility update should be removed.(¾›¨Ç8©¥ğºì2J$348fc989-c206-4e65-ba77-ff417f0bef95
-r	java:S106"+Replace this use of System.out by a logger.(÷ìá¢øÿÿÿÿ8©¥ğºì2J$297f1f39-7e2b-4762-9745-c3648f0d834d
+java:S3011",This accessibility update should be removed.(¾›¨Ç8©¥ğºì2J$8be9cb1a-5111-4568-8f83-3369bd044258
+r	java:S106"+Replace this use of System.out by a logger.(÷ìá¢øÿÿÿÿ8©¥ğºì2J$6b5bb728-0d33-4a9d-a89c-81fc46abafcc
 t
-java:S3011",This accessibility bypass should be removed.(½‹Ñ‹ıÿÿÿÿ8©¥ğºì2J$95bd5f03-cdbe-4a4a-8940-d93b115ab537
-r	java:S106"+Replace this use of System.out by a logger.(÷ìá¢øÿÿÿÿ8©¥ğºì2J$1a41ebd7-febe-442f-ae2e-e3ce940f5c31
+java:S3011",This accessibility bypass should be removed.(½‹Ñ‹ıÿÿÿÿ8©¥ğºì2J$1412977f-481b-4883-93b7-fa84783ad260
+r	java:S106"+Replace this use of System.out by a logger.(÷ìá¢øÿÿÿÿ8©¥ğºì2J$d2123afc-92c6-43bd-ae2e-8c24dec0dd67
 t
-java:S3011",This accessibility update should be removed.(¸Ò†’üÿÿÿÿ8©¥ğºì2J$bc561369-98e6-4b0c-b5a3-0efc2a8375e1
+java:S3011",This accessibility update should be removed.(¸Ò†’üÿÿÿÿ8©¥ğºì2J$bde43d4f-426a-4c25-ba49-d7476187280c
 o
-java:S3011 ",This accessibility update should be removed.(àìÆ›8ª¥ğºì2J$943077f4-c8f0-4321-9329-aeb6371497a4
-r	java:S106""+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ª¥ğºì2J$650c994b-d8c3-4412-84ee-e165dec6b904
+java:S3011 ",This accessibility update should be removed.(àìÆ›8ª¥ğºì2J$eee34042-ad1e-458e-b7d0-6123dd6733d2
+r	java:S106""+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ª¥ğºì2J$4422c75f-63f1-4e8b-945a-7e5c846d45ee
