@@ -1,6 +1,9 @@
 package gogo;
 
 import org.junit.jupiter.api.Test;
+import org.springframework.cglib.proxy.Enhancer;
+import org.springframework.cglib.proxy.MethodInterceptor;
+import org.springframework.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -27,4 +30,23 @@ class ServiceTest {
     void test() {
         service.hello("world");
     }
+
+    @Test
+    void cglib() {
+        MethodInterceptor handler = new MethodInterceptor() {
+            ServiceImpl service = new ServiceImpl();
+
+            @Override
+            public Object intercept(Object obj, Method method, Object[] args, MethodProxy proxy) throws Throwable {
+                System.out.println("after intercept");
+                Object invoke = method.invoke(service, args);
+                System.out.println("before invoke");
+                return invoke;
+            }
+        };
+
+        ServiceImpl s = (ServiceImpl) Enhancer.create(ServiceImpl.class, handler);
+        s.hello("world");
+    }
+
 }
