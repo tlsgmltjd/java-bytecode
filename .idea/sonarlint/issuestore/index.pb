@@ -67,3 +67,13 @@ Y
 )proxy/src/main/java/gogo/ServiceImpl.java,b/d/bd031276fece97b746663f65f957ce4b26845f8b
 Y
 )proxy/src/test/java/gogo/ServiceTest.java,7/5/75bcce77b6493674e2afe71cc7c5d8466161fff1
+G
+lombokdemo/build.gradle,d/e/de1f4b9910117cfacf3b3380e92823830bc1ea3a
+W
+'lombokdemo/src/main/java/gogo/Main.java,0/c/0cdee9852157b565e1a11cc8066ea9c5de0675fa
+Y
+)lombokdemo/src/main/java/gogo/Member.java,0/d/0d120596eedc2f7a700b6ed022d7dcbd24caa549
+B
+lombokdemo/gradlew,3/a/3a3381d99862c775ce2787545ce1dce3a9fdc9a1
+]
+-lombokdemo/src/test/java/gogo/MemberTest.java,f/6/f6249d7558db5f1d1065844f9aefeba9c7777b53
