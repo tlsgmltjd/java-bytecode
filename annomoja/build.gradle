@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group = 'gogo.annomoja'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    implementation 'gogo.magicmoja:magic-moja:1.0-SNAPSHOT'
+    annotationProcessor 'gogo.magicmoja:magic-moja:1.0-SNAPSHOT'
+}
+
+test {
+    useJUnitPlatform()
+}
